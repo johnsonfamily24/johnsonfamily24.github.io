@@ -4,6 +4,8 @@ title: Johnson Family Reunion Fees
 description: false
 ---
 
+[back](./)
+
 ## **The Johnson Family Reunion Fees are as follows:**
 
 - **Children 4 and under – FREE (Pay for T-shirts Only)**
@@ -27,7 +29,8 @@ As an incentive, the first 5 people to pay their fees will get one free t-shirt.
 
 **Alcohol IS permitted, but will NOT be provided.**
 
-Enclosed is a list of family members and their contact numbers. Once you receive this letter, please forward it to your family. We look forward to hearing from you, but more importantly to seeing and reconnecting with you.
+Enclosed is a list of family members and their contact numbers. Once you receive this letter, please forward it to your family. We look forward to hearing from you, but more importantly to seeing and reconnecting with you. You may also email us at [JohnsonFamilyFunctions@gmail.com](mailto:JohnsonFamilyFunctions@gmail.com) if you have any questions.
+
 
 Sincerely,  
 The Johnson Family Reunion Committee
