@@ -56,3 +56,6 @@ This event promises to be a fun filled weekend for our family, but it can only h
 **Please click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.**<br><br>
 
 **Please click [here](./slideshow.html) to view the Slideshow.**<br><br>
+
+
+<iframe src="./slideshow.html" style="border:none;width:100%;height:400px;"></iframe>
