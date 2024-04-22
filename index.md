@@ -4,7 +4,10 @@ layout: default
 
 Greetings from the 2024 Johnson Family Reunion Planning Committee! We have been working hard planning a weekend with family-friendly activities for everyone. The Johnson Reunion will be held Saturday, July 27th – Sunday, July 28th, 2024 in Addis, Louisiana. 
 
-This year’s theme is: **Behold, how good and how pleasant it is for brethren to dwell together in unity! (Psalms 133:1, KJV).** 
+This year’s theme is:
+<br>
+ **Behold, how good and how pleasant it is for brethren to dwell together in unity!
+ <br> (Psalms 133:1 |  KJV)** 
 
 Our reunion colors are Caribbean Blue and Gray. Let’s make this Family Reunion one to remember! We are hoping to see all of you in Louisiana in July!
 
