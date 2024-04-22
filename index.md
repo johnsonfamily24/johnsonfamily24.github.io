@@ -14,8 +14,7 @@ Our reunion colors are Caribbean Blue and Gray. Let’s make this Family Reunion
 ### Saturday, July 27, 2024 @ 12:00pm - 06:00pm
 VFW Memorial Hall<br>
 [4453 Myhand Street<br>
-Addis, Louisiana 70710<br>]
-(https://www.google.com/maps/place/4453+Myhand+St,+Addis,+LA+70710/@30.3502804,-91.2720488,17z/data=!3m1!4b1!4m6!3m5!1s0x86241cc635ebc78d:0xff1d7d581cc24326!8m2!3d30.3502759!4d-91.2671779!16s%2Fg%2F11bw437sxx?entry=ttu)
+Addis, Louisiana 70710<br>](https://www.google.com/maps/place/4453+Myhand+St,+Addis,+LA+70710/@30.3502804,-91.2720488,17z/data=!3m1!4b1!4m6!3m5!1s0x86241cc635ebc78d:0xff1d7d581cc24326!8m2!3d30.3502759!4d-91.2671779!16s%2Fg%2F11bw437sxx?entry=ttu)
 Attire: Casual Wear (Family T-Shirt)<br>
 
 
@@ -40,8 +39,7 @@ Plaquemine, Louisiana 70764<br>](https://www.google.com/maps/place/58820+W+W+Har
 ### Sunday, July 28, 2024 @ 11:00am - 06:00 pm
 VFW Memorial<br> 
 [4453 Myhand Street<br>
-Addis, Louisiana 70710<br>]
-(https://www.google.com/maps/place/4453+Myhand+St,+Addis,+LA+70710/@30.3502804,-91.2720488,17z/data=!3m1!4b1!4m6!3m5!1s0x86241cc635ebc78d:0xff1d7d581cc24326!8m2!3d30.3502759!4d-91.2671779!16s%2Fg%2F11bw437sxx?entry=ttu)
+Addis, Louisiana 70710<br>](https://www.google.com/maps/place/4453+Myhand+St,+Addis,+LA+70710/@30.3502804,-91.2720488,17z/data=!3m1!4b1!4m6!3m5!1s0x86241cc635ebc78d:0xff1d7d581cc24326!8m2!3d30.3502759!4d-91.2671779!16s%2Fg%2F11bw437sxx?entry=ttu)
 Attire: Casual Wear<br>
 
 
