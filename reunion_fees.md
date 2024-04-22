@@ -20,12 +20,12 @@ description: false
 
 
 
-We have a post office box set up for all family members to send your payments. You may send money orders or checks in the mail to:
-Clotis C. Johnson, Sr.,
-Post Office Box 731,
-Plaquemine, Louisiana, 70765.
+We have a post office box set up for all family members to send your payments. You may send money orders or checks in the mail to:<br><br>
+Clotis C. Johnson, Sr.<br>
+Post Office Box 731<br>
+Plaquemine, Louisiana, 70765<br>
 
-As an incentive, the first 5 people to pay their fees will get one free t-shirt. In addition, anyone paying fees prior to May 1st will have their name placed in a drawing for a $50 gift card. Winners will be announced at the reunion.
+As an incentive, the first 5 people to pay their fees will get one free t-shirt. In addition, anyone paying fees prior to May 1st will have their name placed in a drawing for a $50 gift card 🤑. Winners will be announced at the reunion.
 
 **Alcohol IS permitted, but will NOT be provided.**
 
