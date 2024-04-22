@@ -2,122 +2,47 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Greetings from the 2024 Johnson Family Reunion Planning Committee! We have been working hard planning a weekend with family-friendly activities for everyone. The Johnson Reunion will be held Saturday, July 27th – Sunday, July 28th, 2024 in Addis, Louisiana. 
 
-[Link to another page](./another-page.html).
+This year’s theme is: **Behold, how good and how pleasant it is for brethren to dwell together in unity! (Psalms 133:1, KJV).** 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Our reunion colors are Caribbean Blue and Gray. Let’s make this Family Reunion one to remember! We are hoping to see all of you in Louisiana in July!
 
 
-### Definition lists can be used with HTML syntax.
+# Family Day Cookout
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Saturday, July 27, 2024 @ 12:00pm - 06:00pm
+VFW Memorial Hall<br>
+4453 Myhand Street<br>
+Addis, Louisiana 70710<br>
+Attire: Casual Wear (Family T-Shirt)<br>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+![Family Day Cookout](family_day_cookout.jpg)
+
+# Church Service
+
+### Sunday, July 28, 2024 @ 07:30am
+Greater Saint Mary Baptist Church<br> 
+Rev. Geoffrey O. Sykes<br>
+58820 W. W. Harleaux Street<br>
+Plaquemine, Louisiana 70764<br>
+
+
+![Church Service](church_service.jpg)
+
+# Family Fellowship
+
+### Sunday, July 28, 2024 @ 11:00am - 06:00 pm
+VFW Memorial<br> 
+Hall 4453 Myhand Street<br>
+Addis, Louisiana<br> 
+Attire: Casual Wear<br>
+
+
+![Family Day Cookout](family_fellowship.jpg)
+
+
+This event promises to be a fun filled weekend for our family, but it can only happen with your commitment and participation. To assist us with our plans, we are asking that you begin sending your payments so that the funds can be utilized for its intended purpose. Family members and guests can start sending their payments as soon as you receive this letter. Enclosed is a registration form to be returned with payments. **All fees are due by June 1, 2024.**
+
+
