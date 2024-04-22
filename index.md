@@ -53,5 +53,6 @@ This event promises to be a fun filled weekend for our family, but it can only h
 **Please click [here](./reunion_fees.html) to review the Johnson Family Reunion Fees.**<br><br>
 
 
-**Please click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.**
+**Please click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.**<br><br>
 
+**Please click [here](./slides.html) to review the Slide Show.**<br><br>
