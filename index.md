@@ -29,6 +29,14 @@ Rev. Geoffrey O. Sykes<br>
 Plaquemine, Louisiana 70764<br>
 
 
+[58820 W. W. Harleaux Street<br>
+Plaquemine, Louisiana 70764<br>](https://www.google.com/maps/place/58820+W+W+Harleaux+St,+Plaquemine,+LA+70764/@30.2792203,-91.2512396,17z/data=!3m1!4b1!4m6!3m5!1s0x8624024d70887cc9:0xc32ffe70deb4bc66!8m2!3d30.2792157!4d-91.2486647!16s%2Fg%2F11cpmyzl_z?entry=ttu)
+
+
+
+
+
+
 ![Church Service](church_service.jpg)
 
 # Family Fellowship
