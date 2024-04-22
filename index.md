@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<iframe src="./slideshow.html" style="border:none;width:100%;height:800px;"></iframe>
+
 Greetings from the 2024 Johnson Family Reunion Planning Committee! We have been working hard planning a weekend with family-friendly activities for everyone.
 
 The Johnson Reunion will be held Saturday, July 27th – Sunday, July 28th, 2024 in Addis, Louisiana. 
