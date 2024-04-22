@@ -45,4 +45,8 @@ Attire: Casual Wear<br>
 This event promises to be a fun filled weekend for our family, but it can only happen with your commitment and participation. To assist us with our plans, we are asking that you begin sending your payments so that the funds can be utilized for its intended purpose. Family members and guests can start sending their payments as soon as you receive this letter. Enclosed is a registration form to be returned with payments. **All fees are due by June 1, 2024.**
 
 
-Click here to review the [Johnson Family Reunion Fees.](./reunion_fees.html).
+#### Click [here](./reunion_fees.html) to review the Johnson Family Reunion Fees.<br><br>
+
+
+#### Click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.
+
