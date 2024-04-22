@@ -4,21 +4,18 @@ title: Johnson Family Reunion Fees
 description: false
 ---
 
-**The Johnson Family Reunion Fees are as follows:**
+## **The Johnson Family Reunion Fees are as follows:**
 
-<ul style="text-align: center;">
-    <li><strong>Children 4 and under – FREE (Pay for T-shirts Only)</strong></li>
-    <li><strong>5-12 years old - $30 + T-Shirt Fee</strong></li>
-    <li><strong>13-20 years old - $50 + T-Shirt Fee</strong></li>
-    <li><strong>21 years old and older - $90 + T-Shirt Fee</strong></li>
-</ul>
+- **Children 4 and under – FREE (Pay for T-shirts Only)**
+- **5-12 years old - $30 + T-Shirt Fee**
+- **13-20 years old - $50 + T-Shirt Fee**
+- **21 years old and older - $90 + T-Shirt Fee**
 
-**T-Shirt Prices:**
+### **T-Shirt Prices:**
 
-<ul style="text-align: center;">
-    <li><strong>2T- Youth XL: $15</strong></li>
-    <li><strong>Adult S – 4XL: $20</strong></li>
-</ul>
+- **2T- Youth XL: $15**
+- **Adult S – 4XL: $20**
+
 
 
 We have a post office box set up for all family members to send your payments. You may send money orders or checks in the mail to:
