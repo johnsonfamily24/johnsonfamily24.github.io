@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<iframe src="./slideshow.html" style="border:none;width:100%;height:800px;"></iframe>
+<iframe src="./slideshow.html" style="border:none;width:100%;height:600px;"></iframe>
 
 Greetings from the 2024 Johnson Family Reunion Planning Committee! We have been working hard planning a weekend with family-friendly activities for everyone.
 
@@ -56,6 +56,3 @@ This event promises to be a fun filled weekend for our family, but it can only h
 
 
 **Please click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.**<br><br>
-
-
-<iframe src="./slideshow.html" style="border:none;width:100%;height:800px;"></iframe>
