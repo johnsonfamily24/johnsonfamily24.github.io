@@ -8,7 +8,7 @@ description: false
 
 ## **HAMPTON INN & SUITES BATON ROUGE/PORT ALLEN:**
 
-Taking a family vacation is a great chance to make lifelong memories and deepen family relationships. For this family reunion, we have selected the Hampton Suites in Baton Rouge-Port Allen. Placed in the heart of Baton Rouge, this hotel provides the ideal balance of convenience and friendliness. Family members may have plenty of space to rest and recuperate in these spacious rooms that are designed to accommodate families of all sizes. The facilities include a the fitness center and outdoor pool which is designed to make sure that visitors of all ages have a great time. Complimentary cooked breakfasts are also available. 
+Taking a family vacation is a great chance to make lifelong memories and deepen family relationships. For this family reunion, we have selected the Hampton Suites in Baton Rouge-Port Allen. This hotel provides the ideal balance of convenience and friendliness. Family members may have plenty of space to rest and recuperate in these spacious rooms that are designed to accommodate families of all sizes. The facilities include a the fitness center and outdoor pool which is designed to make sure that visitors of all ages have a great time. Complimentary cooked breakfasts are also available. 
  
 You may view more about this hotel by click [here](https://www.hilton.com/en/hotels/btrpahx-hampton-suites-baton-rouge-port-allen/). When booking your room/s, please mention that you are part of the Johnson Family Reunion.
 
