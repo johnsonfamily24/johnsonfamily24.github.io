@@ -53,7 +53,8 @@ This event promises to be a fun filled weekend for our family, but it can only h
 Enclosed is a registration form to be returned with payments. Payments may also be made via Zelle or CashApp. **All fees are due by June 1, 2024.**<br><br>
 
 
+**Please click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.**<br><br>
+
 **Please click [here](./reunion_fees.html) to review the Johnson Family Reunion Fees.**<br><br>
 
-
-**Please click [here](./registration_form.pdf) to download the Johnson Family Reunion Registration Form.**<br><br>
+**Please click [here](./hampton_inn_hotel.html) to review the Johnson Family Reunion Hampton Inn Hotel Information.**<br><br>
