@@ -35,13 +35,13 @@ If you haven't already, download the Zelle or CashApp mobile app from the App St
 
 To make a payment via **Zelle**, use the following details:
 
-Recipient: Tammy Lynn Clark
+Recipient: Tammy Lynn Clark<br>
 Phone Number: 404-893-8094
 
 To make a payment via **CashApp**, you can use the handle:
 
-CashApp Handle: $TammyLClark
-Link: https://cash.app/$TammyLClark
+CashApp Handle: $TammyLClark<br>
+Link: [https://cash.app/$TammyLClark](https://cash.app/$TammyLClark)
 
 
 As an incentive, the first 5 people to pay their fees will get one free t-shirt. In addition, anyone paying fees prior to May 1st will have their name placed in a drawing for a $50 gift card 🤑. Winners will be announced at the reunion.
